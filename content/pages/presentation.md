@@ -1,11 +1,12 @@
 ---
-title: "Présentation"
-date: 2017-08-01T23:40:11+02:00
-draft: false
+title: Présentation
+date: 2017-08-01 21:40:11 +0000
+
 ---
 
-# Présentation de la JUST ONE LIFE PROCUP
+
+# Présentation de le JUST ONE LIFE PROCUP
 
 ## Qu'est-ce que c'est ?
 
-La JUST ONE LIFE PROCUP est une compétition de basket de pré-saison, où l'on retrouve 4 équipes de Pro A féminines.
+Le JUST ONE LIFE PROCUP est une compétition de basket pré-open, où l'on retrouve 4 équipes de Pro A féminine.
