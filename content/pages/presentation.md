@@ -5,7 +5,7 @@ date: 2017-08-01 21:40:11 +0000
 ---
 
 
-# Présentation de le JUST ONE LIFE PROCUP
+# Présentation du JUST ONE LIFE PROCUP
 
 ## Qu'est-ce que c'est ?
 
